@@ -1,0 +1,14 @@
+# Data files
+*.xlsx
+*.csv
+
+# Local files
+.idea/
+Dockerfile
+
+# Local installation of select dependencies (models)
+utils/
+
+# Local secrets
+static/
+data/
